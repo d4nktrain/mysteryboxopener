@@ -1,4 +1,4 @@
-***WARNING THIS IS PROBABLY BANNABLE***
+***WARNING THIS IS BANNABLE***
 
 **Opens hypixel mystery boxes for you**
 

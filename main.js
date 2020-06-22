@@ -47,6 +47,7 @@ bot.on('windowOpen', (window) => {
                 process.exit(0)
             }
             bot.clickWindow(29,0, 0)
+            console.log("opened box")
             setTimeout(() => {
                 bot.openChest(bot.blockAt(isZero ? boxCoordsZero : boxCoordsOne))
             }, 10000)
